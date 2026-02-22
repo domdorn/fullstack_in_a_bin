@@ -40,7 +40,7 @@ public class ChatView extends VerticalLayout {
 
         // Title
         Div title = new Div();
-        title.setText("Live Chat");
+        title.setText("Live Chat Java Vienna 2026-02-16");
         title.getStyle()
                 .set("font-size", "24px")
                 .set("font-weight", "bold")
